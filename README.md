@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1765-map-of-highest-peak) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -39,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -48,5 +50,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

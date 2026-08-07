@@ -68,9 +68,14 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3731-find-missing-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

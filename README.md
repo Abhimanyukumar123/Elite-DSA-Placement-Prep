@@ -78,4 +78,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->

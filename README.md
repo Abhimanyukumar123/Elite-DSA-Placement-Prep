@@ -84,6 +84,7 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Sliding Window
 |  |
 | ------- |

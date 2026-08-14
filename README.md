@@ -24,6 +24,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [1148-article-views-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1148-article-views-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

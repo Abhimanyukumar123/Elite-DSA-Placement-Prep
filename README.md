@@ -9,6 +9,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1765-map-of-highest-peak) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |

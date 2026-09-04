@@ -11,6 +11,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3731-find-missing-elements) |
+| [3903-smallest-stable-index-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3903-smallest-stable-index-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -94,4 +95,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->

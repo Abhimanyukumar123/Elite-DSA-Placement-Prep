@@ -53,6 +53,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3871-count-commas-in-range-ii](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3871-count-commas-in-range-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

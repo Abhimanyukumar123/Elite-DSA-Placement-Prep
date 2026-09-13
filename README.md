@@ -6,6 +6,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1765-map-of-highest-peak](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1765-map-of-highest-peak) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |

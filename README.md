@@ -51,6 +51,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3903-smallest-stable-index-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

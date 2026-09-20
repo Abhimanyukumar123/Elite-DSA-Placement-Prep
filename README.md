@@ -29,6 +29,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
+| [3498-reverse-degree-of-a-string](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |

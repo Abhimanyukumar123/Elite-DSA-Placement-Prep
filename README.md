@@ -12,6 +12,7 @@
 | [1765-map-of-highest-peak](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1765-map-of-highest-peak) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3903-smallest-stable-index-i) |
@@ -19,11 +20,13 @@
 |  |
 | ------- |
 | [1765-map-of-highest-peak](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1765-map-of-highest-peak) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 | [1765-map-of-highest-peak](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/1765-map-of-highest-peak) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -115,4 +118,12 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/0836-rectangle-overlap) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhimanyukumar123/Elite-DSA-Placement-Prep/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
